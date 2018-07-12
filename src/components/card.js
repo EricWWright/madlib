@@ -7,7 +7,7 @@ const INITIAL_STATE = {
     color:'',
     pluralNoun:'',
     adjectiveOne:'',
-    clebOne:'',
+    celebOne:'',
     adjectiveTwo:'',
     nounOne:'',
     numberOne:'',
