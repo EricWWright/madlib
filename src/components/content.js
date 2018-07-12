@@ -3,9 +3,7 @@ import React, { Component } from 'react';
 class Content extends Component {
     render() {
         const data = this.props.data;
-        for(key in data) {
-            console.log(key);
-        }
+    
         //data.map((object, index) => {
         //    console.log(index);
         //})
