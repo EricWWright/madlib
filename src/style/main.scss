@@ -22,7 +22,6 @@
     background-color: #cfcfcf00;
     display: grid;
     justify-items: center;
-    //align-items: center;
     grid-template-rows: [header-s] 218px [header-e card-s] minmax(736px, 994px) [card-e];
 }
 
@@ -184,8 +183,7 @@
             outline: none;
             border-bottom: 1px solid rgb(0, 255, 255);
         }
-        //width: 190px;
-        //height: 40px;
+        
     }
     &__number {
         grid-column: number-s/number-e;
